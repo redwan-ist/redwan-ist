@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Md. Redwan Ahmed (@redwan-ist)
-- 👀 I’m interested in MERN Stack,Python and Competitive Programming
+- 👀 I’m interested in MERN Stack,Python,Django and Competitive Programming
 - 🌱 I’m currently learning Node Js
 
 <!---
